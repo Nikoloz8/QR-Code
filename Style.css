@@ -1,0 +1,39 @@
+body {
+    background-color: #d5e1ef;
+  }
+  .item{
+    width: 320px;
+    height: 497px;
+    background-color: white;
+    margin: auto;
+    padding: 16px;
+    border-radius: 20px;
+    margin-top: 235.5px;
+  }
+  
+  img {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    font-size: 22px;
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    font-weight: 700;
+    color: #1f314f;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-weight: 700;
+  }
+  
+  p {
+    font-size: 15px;
+    text-align: center;
+    font-family: "Outfit", sans-serif;
+    font-weight: 400;
+    color: #7d889e;
+    padding-left: 32px;
+    padding-right: 32px;
+    font-weight: 400;
+  }
